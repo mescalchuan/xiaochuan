@@ -1,3 +1,7 @@
+div, p {
+    -webkit-tap-highlight-color: transparent;
+}
+
 .flex {
     display: flex;
     display: -webkit-flex;
