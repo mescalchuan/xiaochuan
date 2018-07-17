@@ -14,7 +14,7 @@ export default {
         id: 3
     }, {
         title: "你的头像为什么这么萌？",
-        response: "哈哈哈，萌？哪里萌啦？这张照片是我在减肥期间偷吃夜宵被偷拍了。。。",
+        response: "哈哈哈，萌？哪里萌啦？这张照片是我在减肥期间偷吃夜宵被偷拍的。。。",
         id: 4
     }],
     2: [{
@@ -28,7 +28,7 @@ export default {
     }],
     3: [{
         title: "可以说说你的工作嘛？",
-        response: "好呀~我目前的工作是web前端研发工程师，我个人很喜欢这个职位~在公司负责开发移动端项目，技术栈嘛，擅长react和vue。",
+        response: "好呀~我目前的工作是web前端研发工程师，我个人很喜欢这个职位~在公司主要负责开发移动端项目，技术栈嘛，擅长h5、react、react-native、vue。",
         id: 5
     }, {
         title: "可以说说你的生活嘛？",
@@ -55,7 +55,7 @@ export default {
     }],
     6: [{
         title: "我们聊聊工作吧~",
-        response: "好呀~我目前的工作是web前端研发工程师，我个人很喜欢这个职位~在公司负责开发移动端项目，技术栈嘛，擅长react和vue。",
+        response: "好呀~我目前的工作是web前端研发工程师，我个人很喜欢这个职位~在公司主要负责开发移动端项目，技术栈嘛，擅长h5、react、react-native、vue。",
         id: 5
     }, {
         title: "看来你会的还不少啊！",
@@ -73,7 +73,7 @@ export default {
     }],
     8: [{
         title: "我对你很感兴趣，可以交个朋友嘛~留个联系方式呗~",
-        response: "好的呀~我的微信号是：bboydanny，邮箱是1335382915·qq.com~",
+        response: "好的呀~我的微信号是：bboydanny，邮箱是1335382915@qq.com~",
         id: 9
     }, {
         title: "我想要你的手机号",
